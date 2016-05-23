@@ -40,6 +40,17 @@ local known_foods = {
     "farming:pumpkin_slice", "farming:raspberries", "farming:rhubarb",
     "farming:rhubarb_pie", "farming:tomato",
 
+    -- ethereal food by TenPlus1 --
+    "ethereal:golden_apple", "ethereal:strawberry", "ethereal:coconut",
+    "ethereal:orange", "ethereal:banana", "ethereal:wild_onion_plant",
+    "ethereal:banana_bread", "ethereal:pine_nuts", "ethereal:coconut_slice",
+    "ethereal:hearty_stew_cooked", "ethereal:fish_cooked", "ethereal:sashimi",
+
+    -- flowers mod by PilzAdam
+    "flowers:mushroom_brown",
+
+
+
     -- rubenwardy's food --
     "food:cheese", "food:chocolate_dark", "food:chocolate_milk",
     "food:coffee", "food:hotchoco", "food:ms_chocolate", "food:bread_slice",
@@ -65,6 +76,10 @@ local known_foods = {
 
     -- Simple Mobs (mobs)
     "mobs:meat", "mobs:rat_cooked",
+
+    -- Animal Mobs modified by TenPlus1
+    "mobs:chicken_egg_fried", "mobs:chicken_cooked", "mobs:cheese",
+    "mobs:pork_cooked",
 
     -- My Mobs (my_mobs)
     "my_mobs:rabbit_cooked", "my_mobs:milk_bucket",
